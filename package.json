@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/RishabhKodes/testcli#readme",
   "dependencies": {
-    "commander": "^7.0.0",
+    "commander": "^8.0.0",
     "inquirer": "^8.0.0",
     "mongoose": "^5.7.1"
   }
