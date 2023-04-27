@@ -1,2 +1,2 @@
 # testcli
-A CLI project for testing
+A CLI tool for Digital Ocean.
